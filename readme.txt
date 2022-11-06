@@ -34,8 +34,7 @@ Then answer each question to build your team. After adding a Manager, select Eng
 Your generated team.html file can then be found in the /output folder.
 
 ## Demo
-
-<img src="Develop/images/teamGeneratorDemo.gif" width="500" alt="application demo">
+https://vimeo.com/767848513
 
 High-resolution video:
 ## License
