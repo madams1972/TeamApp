@@ -36,7 +36,6 @@ Your generated team.html file can then be found in the /output folder.
 ## Demo
 https://vimeo.com/767848513
 
-High-resolution video:
 ## License
   
 This application is licensed under MIT License.
